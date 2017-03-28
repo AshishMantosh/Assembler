@@ -11,3 +11,7 @@ The 'files' folders contains the 'input.txt' file where the user has to inpur it
   The 'literals.txt' is unused in the coded functionalities.
 
 The 'main.cpp' is the main program.
+
+## [WINDOW SCREEN : RESULT]
+![q](https://cloud.githubusercontent.com/assets/12222863/24389195/62b4cb2e-139d-11e7-94a5-734dd3d9acd0.jpg)
+
