@@ -1,0 +1,3 @@
+FOUR 4 12
+FIVE 5 16
+TEMP  20
